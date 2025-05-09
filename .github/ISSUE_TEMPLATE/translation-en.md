@@ -1,4 +1,4 @@
-** Language, e.g.  Français **
+** Language, e.g.  English **
 
 
 
