@@ -1,14 +1,16 @@
-** Language, e.g.  Français **
+---
+name: Translation-en
+about: Submit a word change proposal.
+title: "[LINGO]"
+labels: ''
+assignees: Shiftwell-Jon
 
+---
 
+** Original Language, e.g. English **
 
-** Current translation (so we can find it) **
+** Current text **
 
+** Proposed text **
 
-
-** Suggested translation **
-
-
-
-** Why is this a better translation? **
-
+** Why the proposed text is better **
