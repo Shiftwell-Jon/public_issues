@@ -2,13 +2,8 @@
 
 
 
-** Current translation (so we can find it) **
+** Current text **
 
+** Proposed text **
 
-
-** Suggested translation **
-
-
-
-** Why is this a better translation? **
-
+** Why the proposed text is better **
